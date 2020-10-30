@@ -10,3 +10,4 @@
 [Общественное питание в Москве](https://data.mos.ru/opendata/7710881420-obshchestvennoe-pitanie-v-moskve)
 [Ситуация с коронавирусом по регионам](https://xn--80aesfpebagmfblc0a.xn--p1ai/information/)
 
+[Домашнее задание 1 (до 7 ноября)](/homework/hw1.md)
