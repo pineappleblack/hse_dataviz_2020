@@ -13,3 +13,10 @@
 [Ситуация с коронавирусом по регионам](https://xn--80aesfpebagmfblc0a.xn--p1ai/information/)<br>
 
 [Домашнее задание 1 (до 7 ноября)](/homework/hw1.md)
+
+## День 2
+**Практика**<br>
+[Количество браков в разбивке по месяцам](https://fedstat.ru/indicator/33553)
+[Причины смерти](https://fedstat.ru/indicator/33559) + [Общее число умерших](https://fedstat.ru/indicator/31617)
+[Оценки сериалов  и их адаптаций](https://docs.google.com/spreadsheets/d/1EYnj-y8F0ai4hjogLYlvgRMYtzvZ9Nmx_gh9m1sEyRw/copy)
+[Причины  уплаты  налогов](https://fom.ru/Ekonomika/14476) + [Датасет]((/data/fom_data.csv)
