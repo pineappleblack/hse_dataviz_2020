@@ -18,7 +18,7 @@
 Типы графиков, и как правильно выбрать нужный: [[pdf]](/lections/lection_2.pdf)<br>
 
 **Практика**<br>
-[Количество браков в разбивке по месяцам](https://fedstat.ru/indicator/33553)
-[Причины смерти](https://fedstat.ru/indicator/33559) + [Общее число умерших](https://fedstat.ru/indicator/31617)
-[Оценки сериалов  и их адаптаций](https://docs.google.com/spreadsheets/d/1EYnj-y8F0ai4hjogLYlvgRMYtzvZ9Nmx_gh9m1sEyRw/copy)
-[Причины  уплаты  налогов](https://fom.ru/Ekonomika/14476) + [Датасет]((/data/fom_data.csv)
+[Количество браков в разбивке по месяцам](https://fedstat.ru/indicator/33553)<br>
+[Причины смерти](https://fedstat.ru/indicator/33559) + [Общее число умерших](https://fedstat.ru/indicator/31617)<br>
+[Оценки сериалов  и их адаптаций](https://docs.google.com/spreadsheets/d/1EYnj-y8F0ai4hjogLYlvgRMYtzvZ9Nmx_gh9m1sEyRw/copy)<br>
+[Причины  уплаты  налогов](https://fom.ru/Ekonomika/14476) + [Датасет]((/data/fom_data.csv)<br>
