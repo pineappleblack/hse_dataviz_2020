@@ -15,6 +15,8 @@
 [Домашнее задание 1 (до 7 ноября)](/homework/hw1.md)
 
 ## День 2
+Типы графиков, и как правильно выбрать нужный: [[pdf]](/lections/lection_2.pdf)<br>
+
 **Практика**<br>
 [Количество браков в разбивке по месяцам](https://fedstat.ru/indicator/33553)
 [Причины смерти](https://fedstat.ru/indicator/33559) + [Общее число умерших](https://fedstat.ru/indicator/31617)
