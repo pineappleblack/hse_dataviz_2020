@@ -1,7 +1,7 @@
 # Домашнее задание 2
 *Максимальный балл: 10*
 
-1. Ваша задача — построить график в соответствии с [https://docs.google.com/spreadsheets/d/1zaFcByTwTXrfY5H2SRRe_A7bYUdHaFtmdYlaxNpehnI/edit?usp=sharing](вашим вариантом).
+1. Ваша задача — построить график в соответствии с [https://docs.google.com/spreadsheets/d/1zaFcByTwTXrfY5H2SRRe_A7bYUdHaFtmdYlaxNpehnI/](вашим вариантом).
 2. Подумайте, какие данные можно визуализировать с помощью этого графика. Найдите в интернете любой набор данных.
 Поискать можно, например, тут: [fedstat.ru](https://fedstat.ru/), [data.mos.ru](https://data.mos.ru), [data.worldbank.org](https://data.worldbank.org/). <br>
 3. Используйте сервисы Datawrapper или Flourish, чтобы построить график по этим данным.
