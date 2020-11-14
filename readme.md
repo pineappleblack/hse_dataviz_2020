@@ -20,5 +20,12 @@
 **Практика**<br>
 [Количество браков в разбивке по месяцам](https://fedstat.ru/indicator/33553)<br>
 [Причины смерти](https://fedstat.ru/indicator/33559) + [Общее число умерших](https://fedstat.ru/indicator/31617)<br>
-[Оценки сериалов  и их адаптаций](https://docs.google.com/spreadsheets/d/1EYnj-y8F0ai4hjogLYlvgRMYtzvZ9Nmx_gh9m1sEyRw/copy)<br>
 [Причины  уплаты  налогов](https://fom.ru/Ekonomika/14476) + [Датасет](/data/fom_data.csv)<br>
+[Оценки сериалов  и их адаптаций](https://docs.google.com/spreadsheets/d/1EYnj-y8F0ai4hjogLYlvgRMYtzvZ9Nmx_gh9m1sEyRw/copy)<br>
+
+## День 3
+Визуализация данных как искусство: [[pdf]](/lections/lection_3.pdf)<br>
+
+**Практика**<br>
+[Кого выгоняют с уроков](https://docs.google.com/spreadsheets/d/1yH2Bq4uf_pRfQK5DMED8H79axfBhkz7tV3BnygmdIHA/edit?usp=sharing)<br>
+[Доля курящего населения](https://rosstat.gov.ru/free_doc/new_site/ZDOR/2019/PublishSite/Files/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%2067.%20%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B0%D0%B1%D0%B0%D0%BA%D0%B0.xlsx) + [Уровень смертности в регионах](https://rosstat.gov.ru/storage/mediabank/EDN(1).xlsx)
