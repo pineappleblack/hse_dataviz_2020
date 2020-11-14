@@ -29,3 +29,5 @@
 **Практика**<br>
 [Кого выгоняют с уроков](https://docs.google.com/spreadsheets/d/1yH2Bq4uf_pRfQK5DMED8H79axfBhkz7tV3BnygmdIHA/edit?usp=sharing)<br>
 [Доля курящего населения](https://rosstat.gov.ru/free_doc/new_site/ZDOR/2019/PublishSite/Files/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%2067.%20%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B0%D0%B1%D0%B0%D0%BA%D0%B0.xlsx) + [Уровень смертности в регионах](https://rosstat.gov.ru/storage/mediabank/EDN(1).xlsx)
+
+[Домашнее задание 2 (до 21 ноября)](/homework/hw2.md)
