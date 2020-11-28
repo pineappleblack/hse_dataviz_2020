@@ -6,7 +6,9 @@
 Позаботьтесь о том, чтобы у вас по возможности не оставалось перевёрнутых подписей (например, к оси Y).<br>
 Цвета и шрифты в работе вы можете подобрать на свой вкус.<br>
 
-Варианты работ и их описания — в [таблице](https://docs.google.com/spreadsheets/d/1of0EsHWmiImGxBsxOrKbYOENBX8F4QuEa4ymDOkCBqg/edit?usp=sharing).
+Варианты работ и их описания — в [таблице](https://docs.google.com/spreadsheets/d/1of0EsHWmiImGxBsxOrKbYOENBX8F4QuEa4ymDOkCBqg/edit?usp=sharing).<br>
+
+Выполненные задания присылайте в виде ссылок на public.tableau.com<br>
 
 **Дедлайн: 4 ноября в 23:59** <br>
 
