@@ -50,4 +50,4 @@
 
 [Домашнее задание 3 (до 4 ноября включительно)](/homework/hw3.md)<br>
 
-[https://actionpay.net/cn/s/KLHC1jcoQSjKsdO2QRo1ow/yml/yml1946.xml?key=PcbvBw9jHDR3Vv9l](тест)
+[тест](https://actionpay.net/cn/s/KLHC1jcoQSjKsdO2QRo1ow/yml/yml1946.xml?key=PcbvBw9jHDR3Vv9l)
