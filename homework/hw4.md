@@ -3,7 +3,7 @@
 
 Выполните визуализацию данных на карте в соответствии со своим вариантом. Не забудьте подписать заголовок и источник. Сделайте аннотации, если это возможно.
 
-Варианты работ и их описания — в [таблице](https://docs.google.com/spreadsheets/d/1Ax8NXY-Dd_sD4vrodbZi2Tb9MOn4_5eU_AcnoNWSmn8/edit#gid=0).<br>
+Варианты работ и их описания — в [таблице](https://docs.google.com/spreadsheets/d/1Ax8NXY-Dd_sD4vrodbZi2Tb9MOn4_5eU_AcnoNWSmn8/edit?usp=sharing).<br>
 
 **Дедлайн: 11 ноября в 23:59** <br>
 
