@@ -56,9 +56,9 @@
 
 **Практика**<br>
 [Шаблон для плиточной карты](https://docs.google.com/spreadsheets/d/10YgDwuLM_clbYp90-6GSng_Z0_ktwbjwF7aKs26RzBo/)<br>
-[Доля дорог, не отвечающих нормативным требованиям](http://www.gks.ru/free_doc/new_site/business/trans-sv/transp2.xls)><br> + [Карта ТАСС](https://tass.ru/obschestvo/7114097)
-[Точки общественного питания в Москве](https://data.mos.ru/opendata/7710881420-obshchestvennoe-pitanie-v-moskve/)
-[Население городов России](https://docs.google.com/spreadsheets/d/1VnQt-GQidn35mqIDjhh3SPKUH9hAcu3eZZhicVsCSmc/edit?usp=sharing)
-[Данные по коронавирусу](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv)
+[Доля дорог, не отвечающих нормативным требованиям](http://www.gks.ru/free_doc/new_site/business/trans-sv/transp2.xls)<br> + [Карта ТАСС](https://tass.ru/obschestvo/7114097)<br>
+[Точки общественного питания в Москве](https://data.mos.ru/opendata/7710881420-obshchestvennoe-pitanie-v-moskve/)<br>
+[Население городов России](https://docs.google.com/spreadsheets/d/1VnQt-GQidn35mqIDjhh3SPKUH9hAcu3eZZhicVsCSmc/edit?usp=sharing)<br>
+[Данные по коронавирусу](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv)<br>
 
 [Домашнее задание 4 (до 11 декабря включительно)](/homework/hw4.md)<br>
