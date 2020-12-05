@@ -48,4 +48,17 @@
 [Наказания за растраты](https://docs.google.com/spreadsheets/d/1m35FRjYqivQTXwKUMytLI43HTssmy-cKmY7ENth80Us/edit?usp=sharing)<br>
 [Космические пуски в 2010-x](https://docs.google.com/spreadsheets/d/1TwSfz8MSof58SpTImtCniS_tWCWMkDn-T3bRJMhS7IY/edit?usp=sharing) + [вики](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%BE%D0%B2)<br>
 
-[Домашнее задание 3 (до 4 ноября включительно)](/homework/hw3.md)<br>
+[Домашнее задание 3 (до 4 декабря включительно)](/homework/hw3.md)<br>
+
+## День 6
+**Лекция**<br>
+Визуализация данных на картах: [[pdf]](/lections/lection_4.pdf)<br>
+
+**Практика**<br>
+[Шаблон для плиточной карты](https://docs.google.com/spreadsheets/d/10YgDwuLM_clbYp90-6GSng_Z0_ktwbjwF7aKs26RzBo/)<br>
+[Доля дорог, не отвечающих нормативным требованиям](http://www.gks.ru/free_doc/new_site/business/trans-sv/transp2.xls)><br> + [Карта ТАСС](https://tass.ru/obschestvo/7114097)
+[Точки общественного питания в Москве](https://data.mos.ru/opendata/7710881420-obshchestvennoe-pitanie-v-moskve/)
+[Население городов России](https://docs.google.com/spreadsheets/d/1VnQt-GQidn35mqIDjhh3SPKUH9hAcu3eZZhicVsCSmc/edit?usp=sharing)
+[Данные по коронавирусу](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv)
+
+[Домашнее задание 4 (до 11 декабря включительно)](/homework/hw4.md)<br>
