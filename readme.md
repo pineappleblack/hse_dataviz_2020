@@ -56,7 +56,7 @@
 
 **Практика**<br>
 [Шаблон для плиточной карты](https://docs.google.com/spreadsheets/d/10YgDwuLM_clbYp90-6GSng_Z0_ktwbjwF7aKs26RzBo/)<br>
-[Доля дорог, не отвечающих нормативным требованиям](http://www.gks.ru/free_doc/new_site/business/trans-sv/transp2.xls)<br> + [Карта ТАСС](https://tass.ru/obschestvo/7114097)<br>
+[Доля дорог, не отвечающих нормативным требованиям](http://www.gks.ru/free_doc/new_site/business/trans-sv/transp2.xls) + [Карта ТАСС](https://tass.ru/obschestvo/7114097)<br>
 [Точки общественного питания в Москве](https://data.mos.ru/opendata/7710881420-obshchestvennoe-pitanie-v-moskve/)<br>
 [Население городов России](https://docs.google.com/spreadsheets/d/1VnQt-GQidn35mqIDjhh3SPKUH9hAcu3eZZhicVsCSmc/edit?usp=sharing)<br>
 [Данные по коронавирусу](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv)<br>
