@@ -24,7 +24,7 @@
 [Яндекс Wordstat](https://wordstat.yandex.ru/) — разные поисковые запросы с определёным словом в Яндексе<br>
 [Google Trends](https://trends.google.com/trends/) — динамика поисковых запросов в Google<br>
 
-### Лайфхаки:
+### Лайфхаки
 [Карты данных Инфокультуры](https://www.infoculture.ru/2018/12/10/datamaps/) — подскажут, где искать данные по разным темам<br>
 [Использование ключевого слова filetype в Google](https://www.google.com/search?q=%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C+filetype%3Acsv&rlz=1C5CHFA_enRU851RU851&oq=%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C+filetype%3Acsv&aqs=chrome..69i57.6732j0j7&sourceid=chrome&ie=UTF-8)
 
