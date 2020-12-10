@@ -73,8 +73,8 @@
 Оформление инфографики: [[pdf]](/lections/lection_5.pdf)<br>
 
 **Практика**<br>
-[Шрифт Montserrat](https://fonts.google.com/specimen/Montserrat)
-[Кого выгоняют с уроков](https://public.flourish.studio/visualisation/4347002/)
-[В какие месяцы больше дней рождения](https://public.tableau.com/profile/aleksandra.k1944#!/vizhome/-3_16070497623740/Dashboard1)
+[Шрифт Montserrat](https://fonts.google.com/specimen/Montserrat)<br>
+[Кого выгоняют с уроков](https://public.flourish.studio/visualisation/4347002/)<br>
+[В какие месяцы больше дней рождения](https://public.tableau.com/profile/aleksandra.k1944#!/vizhome/-3_16070497623740/Dashboard1)<br>
 
 [Домашнее задание 5 (до 18 декабря включительно)](/homework/hw4.md)<br>
