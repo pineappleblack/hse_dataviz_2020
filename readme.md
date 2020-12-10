@@ -19,6 +19,7 @@
 [Домашнее задание 1 (до 7 ноября)](/homework/hw1.md)
 
 ## День 2
+**Лекция**<br>
 Типы графиков, и как правильно выбрать нужный: [[pdf]](/lections/lection_2.pdf)<br>
 
 **Практика**<br>
@@ -28,6 +29,7 @@
 [Оценки сериалов  и их адаптаций](https://docs.google.com/spreadsheets/d/1EYnj-y8F0ai4hjogLYlvgRMYtzvZ9Nmx_gh9m1sEyRw/copy)<br>
 
 ## День 3
+**Лекция**<br>
 Визуализация данных как искусство: [[pdf]](/lections/lection_3.pdf)<br>
 
 **Практика**<br>
@@ -65,3 +67,14 @@
 [Данные по коронавирусу](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv)<br>
 
 [Домашнее задание 4 (до 11 декабря включительно)](/homework/hw4.md)<br>
+
+## День 7
+**Лекция**<br>
+Оформление инфографики: [[pdf]](/lections/lection_5.pdf)<br>
+
+**Практика**<br>
+[Шрифт Montserrat](https://fonts.google.com/specimen/Montserrat)
+[Кого выгоняют с уроков](https://public.flourish.studio/visualisation/4347002/)
+[В какие месяцы больше дней рождения](https://public.tableau.com/profile/aleksandra.k1944#!/vizhome/-3_16070497623740/Dashboard1)
+
+[Домашнее задание 5 (до 18 декабря включительно)](/homework/hw4.md)<br>
