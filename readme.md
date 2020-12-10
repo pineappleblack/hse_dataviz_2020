@@ -77,4 +77,4 @@
 [Кого выгоняют с уроков](https://public.flourish.studio/visualisation/4347002/)<br>
 [В какие месяцы больше дней рождения](https://public.tableau.com/profile/aleksandra.k1944#!/vizhome/-3_16070497623740/Dashboard1)<br>
 
-[Домашнее задание 5 (до 18 декабря включительно)](/homework/hw4.md)<br>
+[Домашнее задание 5 (до 18 декабря включительно)](/homework/hw5.md)<br>
