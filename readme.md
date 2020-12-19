@@ -82,5 +82,4 @@
 ## День 8
 
 [Данные по коронавирусу](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv) + [Работа FT](https://twitter.com/sdbernard/status/1333808659575476225)<br>
-[Plot Parade](https://plotparade.com/)
 
