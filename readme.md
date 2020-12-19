@@ -83,3 +83,13 @@
 
 [Данные по коронавирусу](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv) + [Работа FT](https://twitter.com/sdbernard/status/1333808659575476225)<br>
 
+**Аккаунты датавиз-отделов:**<br>
+[The Pudding](https://twitter.com/puddingviz)<br>
+[New York Times](https://twitter.com/nytgraphics) + [NYT Opinion](https://twitter.com/iarynam)<br>
+[Bloomberg](https://twitter.com/BBGVisualData)<br>
+[Wall Street Journal](https://twitter.com/WSJGraphics)<br>
+
+Телеграм-канал [data.csv](https://t.me/data_csv)
+
+
+
